@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "AFNManager.h"
 @interface ViewController ()
 
 @end
@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    [[AFNManager shareAFNManager] postWithURLString:@"" parameters:nil success:^(id responseObject) {
+        
+    } failure:^(NSError *error) {
+        
+    } isShowErrorPrompt:YES showHUDAddedToView:nil promptText:nil];
 }
 
 
