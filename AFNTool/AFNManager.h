@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import "UploadParam.h"
-// aaaaa@test.com
+
 @interface AFNManager : NSObject
 @property (nonatomic,strong) NSURLSessionDataTask *dataTask;
 + (instancetype)shareAFNManager;
