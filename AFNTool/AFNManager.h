@@ -12,9 +12,6 @@
 //qqqq@qq.com
 //aaaaa@qq.com
 
-
-
-
 @interface AFNManager : NSObject
 @property (nonatomic,strong) NSURLSessionDataTask *dataTask;
 + (instancetype)shareAFNManager;
