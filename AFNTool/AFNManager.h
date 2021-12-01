@@ -14,6 +14,8 @@
 
 
 
+
+
 @interface AFNManager : NSObject
 @property (nonatomic,strong) NSURLSessionDataTask *dataTask;
 + (instancetype)shareAFNManager;
