@@ -18,7 +18,6 @@
 
 //aaaaa@tuya.com
 
-//cccccc@huhuan.com
 
 
 @interface AFNManager : NSObject
