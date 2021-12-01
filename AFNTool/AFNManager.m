@@ -9,6 +9,8 @@
 #import "AFNManager.h"
 #import "AFNetworking.h"
 #import "FunctionClass.h"
+
+
 @implementation AFNManager
 + (instancetype)shareAFNManager {
     static AFNManager *_shareAFNManager = nil;
