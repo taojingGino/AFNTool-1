@@ -14,10 +14,6 @@
 
 
 
-
-
-
-
 @implementation AFNManager
 + (instancetype)shareAFNManager {
     static AFNManager *_shareAFNManager = nil;
