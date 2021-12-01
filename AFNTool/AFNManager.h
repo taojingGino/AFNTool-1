@@ -12,6 +12,7 @@
 // aaaaa@test.com
 
 //action
+////action
 @interface AFNManager : NSObject
 @property (nonatomic,strong) NSURLSessionDataTask *dataTask;
 + (instancetype)shareAFNManager;
