@@ -30,7 +30,7 @@ https://huan.aaaaa.tuya-in.net.top",
 
 "Key_App": 'ugjv47qpjd5nnegmqs4hcc'
     "Key": 'ugjv47qpjd5nnegmqs4hcc1'
-    pid = '6c3a42121c0e631ff7hum3'
+    pid : '6c3a42121c0e631ff7hum3'
     uuid = '6c3a42121c0e631ff7hum4'
     gwid = '6c3a42121c0e631ff7hum45'
     seckey = '6c3a42121c0e631ff7hum456'
