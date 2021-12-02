@@ -38,7 +38,7 @@ https://huan.aaaaa.tuya-in.net.top",
     
     app_Key: 'ugjv47qpjd5nnegmqs4hqc'
     app Key: 'ugjv47qpjd5nnegmqs4hxc'
-   android:value = "wqcv47qpjd5qqegm123"
+   android:value = "wqcv47qpjd5qqmmmmmegm123"
    android:value="yrq8t3tgyw9dhry7xnuckgdvwe123456"
 
 
