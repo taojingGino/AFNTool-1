@@ -26,6 +26,8 @@ https://huan.aaaaa.wgine-inc.top",
 https://huan.aaaaa.tuya-in.net.top",
 
 
+
+
 "Key_App": 'ugjv47qpjd5nnegmqs4hcc'
     "Key": 'ugjv47qpjd5nnegmqs4hcc1'
     pid = '6c3a42121c0e631ff7hum3'
@@ -33,12 +35,15 @@ https://huan.aaaaa.tuya-in.net.top",
     gwid = '6c3a42121c0e631ff7hum45'
     seckey = '6c3a42121c0e631ff7hum456'
     localkey = '6c3a42121c0e631ff7hum4567'
-    "pwd" = '1Aa123456cc_'
-    password = 'Aa123456caaac_'
+    
     app_Key: 'ugjv47qpjd5nnegmqs4hqc'
     app Key: 'ugjv47qpjd5nnegmqs4hxc'
    android:value = "wqcv47qpjd5qqegm123"
    android:value="yrq8t3tgyw9dhry7xnuckgdvwe123456"
+
+
+"pwd" = '1Aa123456cc_'
+password = 'Aa123456caaac_'
 
 http://wiki-a.tuyaus-huanhuan.com
 http://wiki-a.0-huanhu.tuya-inc.com
