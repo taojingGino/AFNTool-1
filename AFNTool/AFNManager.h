@@ -30,6 +30,7 @@ https://huan.aaaaa.tuya-in.net.top",
 
 
 
+
 "Key_App": @"ugjv47qpjd5nnegmqs4hcc"
     "Key": 'ugjv47qpjd5nnegmqs4hcc1'
     pid : '6c3a42121c0e631ff7hum3'
@@ -47,7 +48,7 @@ https://huan.aaaaa.tuya-in.net.top",
 "pwd" = '1Aa123456cc_'
 password = 'Aa123456caaac_'
 
-"PwD = 'Aa123456caaac_
+"PwD = 'Aa123456caaac___
 
 http://wiki-a.tuyaus-huanhuan.com
 http://wiki-a.0-huanhu.tuya-inc.com
