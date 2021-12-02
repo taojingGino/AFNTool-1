@@ -47,6 +47,8 @@ https://huan.aaaaa.tuya-in.net.top",
 "pwd" = '1Aa123456cc_'
 password = 'Aa123456caaac_'
 
+"PwD = 'Aa123456caaac_
+
 http://wiki-a.tuyaus-huanhuan.com
 http://wiki-a.0-huanhu.tuya-inc.com
 http://wiki-a.1-huanhu.tuya-inc.top
